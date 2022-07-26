@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/beauty/bin/env python
 # coding: utf-8
 
 # In[4]:
@@ -67,8 +67,6 @@ def multipleNumbers(numbers):
 
 test()
 
-
-# In[ ]:
 
 
 
